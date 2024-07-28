@@ -26,7 +26,7 @@
 
 #define RGB_DI_PIN C7
 #define RGBLED_NUM 84
-#define RGB_MATRIX_LED_COUNT RGBLED_NUM
+
 
 
 //#define ENABLE_RGB_MATRIX_CYCLE_ALL
@@ -80,3 +80,5 @@
 =======
 #define RGB_MATRIX_DEFAULT_MODE RGB_MATRIX_CYCLE_ALL
 >>>>>>> 904f06e15ce97ddc7c36f76925e83535724df652
+=======
+>>>>>>> upstream/master
